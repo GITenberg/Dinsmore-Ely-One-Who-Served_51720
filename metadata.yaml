@@ -1,0 +1,31 @@
+_repo: Dinsmore-Ely-One-Who-Served_51720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ely, Dinsmore
+    birthdate: 1894
+    deathdate: 1918
+    gutenberg_agent_id: '46532'
+    url: http://www.gutenberg.org/2009/agents/46532
+  editor:
+    agent_name: Ely, James O. (James Owen)
+    alias: Ely, James Owen
+    birthdate: 1863
+    gutenberg_agent_id: '46533'
+    url: http://www.gutenberg.org/2009/agents/46533
+description: ''
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51720'
+  lccn: '19007468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, American'
+- !lcc 'D501'
+- GITenberg
+title: Dinsmore Ely, One Who Served
+url: http://www.gutenberg.org/ebooks/51720
